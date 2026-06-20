@@ -57,10 +57,10 @@ Azure ML Studio · Git · Vercel · Jupyter Notebook
 
 ## 📬 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-pied-seven-64.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.shubhranshu.xyz/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhranshu489/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhranshu331@gmail.com)
 
 ---
 
-*Open to full-time opportunities in Data Analytics, Frontend Development, and ML Engineering.*
+*Open to full-time opportunities in Data Analytics, Web Development, and ML Engineering.*
